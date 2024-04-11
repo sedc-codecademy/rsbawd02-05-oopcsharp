@@ -39,6 +39,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methods", "Class04\Methods\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkWithStrings", "Class04\WorkWithStrings\WorkWithStrings.csproj", "{6B11A372-42D2-4256-A0A0-7968C7A54A22}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassesOOP", "Class05\ClassesOOP\ClassesOOP.csproj", "{E0C46F1A-744F-4C93-802D-4FAC3554D316}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -77,6 +79,10 @@ Global
 		{6B11A372-42D2-4256-A0A0-7968C7A54A22}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B11A372-42D2-4256-A0A0-7968C7A54A22}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6B11A372-42D2-4256-A0A0-7968C7A54A22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0C46F1A-744F-4C93-802D-4FAC3554D316}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0C46F1A-744F-4C93-802D-4FAC3554D316}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0C46F1A-744F-4C93-802D-4FAC3554D316}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0C46F1A-744F-4C93-802D-4FAC3554D316}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -90,6 +96,7 @@ Global
 		{C64ED774-B80B-4124-894B-8D4096C9DEA3} = {835AD1A6-19F9-42C7-B95C-5898052B58C8}
 		{F64C6CE5-7C05-4FCD-99D7-7714BE46130F} = {E9DB46C1-C25E-4CE9-860A-4F93BF43CF49}
 		{6B11A372-42D2-4256-A0A0-7968C7A54A22} = {E9DB46C1-C25E-4CE9-860A-4F93BF43CF49}
+		{E0C46F1A-744F-4C93-802D-4FAC3554D316} = {CF74F300-0ACC-4A3A-A5A5-07F4F94C9AD9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {29170795-25D3-497D-9AB1-234969FEE874}
