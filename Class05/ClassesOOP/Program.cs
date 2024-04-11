@@ -68,6 +68,8 @@ namespace ClassesOOP
                     break;
             }
 
+            #endregion
+
             #region Exercise 3
 
             Student[] arrStudents = new Student[] {
